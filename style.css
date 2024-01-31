@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Sixtyfour&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Sixtyfour&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Permanent+Marker&family=Sixtyfour&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Permanent+Marker&family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&family=Sixtyfour&display=swap');
+
+*{
+    font-family: "Philosopher", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+}
+
+
+.navicon {
+    height: 75px;
+    width: 100px;
+
+}
+
+
+.landing {
+    background-image: url(https://res.cloudinary.com/dtobij9ei/image/upload/v1704383421/motocross-rider-action-motocross-sport-moto-sport_ir18gy.jpg);
+    height: 100vh;
+    background-size: cover;
+    padding: 35px;
+    position: center;
+    font-family: "Sixtyfour", sans-serif;
+    color: white;
+    
+}
+
+
+
+.accessories {
+    background-image: url(https://res.cloudinary.com/dtobij9ei/image/upload/v1706705550/car-accessories-with-copy-space_1_mr1esa.jpg);
+    height: 70vh;
+    background-size: cover;
+    padding: 35px;
+    filter: grayscale(5px);
+
+
+
+}
+
+.ass_hed{
+    border: 5px solid #720455;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.hee{
+    color:#910A67;
+    font-family: "Black Ops One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.bu {
+    width: 125px;
+    color: black;
+    border-radius: 20px;
+   
+}
+.bu:hover{
+   text-decoration: underline;
+   background-color: #3C0753;
+   color: white;
+
+}
+.hea:hover{
+    text-decoration: underline;
+    color: solid #638889;
+}
+.ass_hed:hover{
+    text-decoration: underline;
+}
+span{
+    color: #0C2D57;
+}
+
+.service_logo{
+    height: 150px;;
+    margin-left: 10px;
+    border: 3px solid orangered;
+    background-color: #FC6736;
+}
+.ser-ma{
+    margin-left:10px;
+}
+.bg-fotter{
+
+    background-image: linear-gradient(
+    #D04848,#DE4313);
+    border-top-left-radius: 13px;
+    border-top-right-radius: 13px;
+}
+.icon-style{
+    font-size: 35px;
+    color:white;
+    margin-inline: 13px;
+    background-image: linear-gradient(
+        #FEC163,#DE4313);
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    padding-left: 13.5px;
+    padding-top: 3px;
+}.footer-logo{
+    height: 60px;
+}
+
+.footer-para{
+    margin-inline: 8px;
+    color: white;
+    padding-top: 1.5px;
+}
+
+.footer-paraone{
+    color: white;
+    padding-top: 1.5px;
+}
+
+.doneby{
+    background-color:white;
+    color: orange;
+    text-align: center;
+    font-family: cursive;
+    padding: 5px;
+    margin-bottom: 0px;
+}
+
+.ho{
+    padding-top: 12px;
+}
+.ho:hover {
+    cursor: pointer;
+    text-decoration: underline;
+    color: orange;
+}
+.under:hover{
+    text-decoration: underline;
+}
+.newarr{
+    font-family: "Black Ops One", system-ui;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 25px;
+        padding: 10px;
+        color: #030637;
+      
+}
+.newarr:hover{
+    text-decoration: underline;
+}
+.se-hed{
+    font-family: "Permanent Marker", cursive;
+  font-weight: 400;
+  font-style: normal;
+  text-decoration: underline;
+}
